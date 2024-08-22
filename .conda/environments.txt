@@ -1,0 +1,3 @@
+C:\Users\anniv\miniconda3
+C:\Users\anniv\miniconda3\envs\snowflakes
+C:\Users\anniv\miniconda3\envs\snakes
